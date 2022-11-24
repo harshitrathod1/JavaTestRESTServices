@@ -1,0 +1,22 @@
+[
+  {
+    "id": 99,
+    "urlName": "insurance",
+    "name": "Insurance"
+  },
+  {
+    "id": 167,
+    "urlName": "industrial-automation",
+    "name": "Industrial Automation"
+  },
+  {
+    "id": 36,
+    "urlName": "industrial-machinery",
+    "name": "Industrial Machinery"
+  },
+  {
+    "id": 31,
+    "urlName": "internet",
+    "name": "Internet"
+  }
+]
